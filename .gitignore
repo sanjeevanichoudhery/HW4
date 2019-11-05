@@ -16,7 +16,6 @@ installer/rails_installer.yml
 /public/robots.txt
 #/public/stylesheets/theme
 /public/stylesheets/all.css
-/coverage/
 tmp/*
 nbproject
 public/cache/*
